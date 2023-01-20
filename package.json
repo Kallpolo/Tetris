@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/Kallpolo/Tetris"
+    "url" : "https://github.com/Kallpolo/Tetris.git"
   },
   "scripts": {
     "start": "http-server ./ -c-1",
